@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
+}
+
+/*deslizamento lizo*/
+html{
+    scroll-behavior: smooth;
+}
+
+.inicio{
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
